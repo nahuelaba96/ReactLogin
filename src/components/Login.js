@@ -27,14 +27,14 @@ const Login = (props) => {
     <div className="container">
       <div className="position-absolute top-50 start-50 translate-middle d-flex align-items-center">
         <div>
-          <img className="me-4" src={iphone} width="450 px" />
+          <img className="me-4 img-fluid" src={iphone} width="450 px" />
         </div>
         {error && <p className="mb-4 fw-bold text-danger">{error}</p>}
         <div className="col-5">
           <div className="card">
             <div className="card-body">
               <div className="d-flex justify-content-center m-4">
-                <img className="me-4" src={logo} width="200 px" />
+                <img className="me-4 img-fluid" src={logo} width="200 px" />
               </div>
               <form onSubmit={handleLogin}>
                 <div className="mb-3">
