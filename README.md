@@ -1,5 +1,5 @@
 # ReactLogin
-Simple react login page using hooks and bootstrap
+Simple react login responsive page using hooks and bootstrap
 
 ![image](https://user-images.githubusercontent.com/70920746/120074301-909dd680-c072-11eb-9c18-43967a1016f5.png)
 
